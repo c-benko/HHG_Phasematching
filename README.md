@@ -8,7 +8,6 @@ This project is mostly a storage place for the simulation. It will continue to e
 ## Brief file description
 ### `/src`
 `atom.py` contains useful atomic parameters to calculate things like dispersion at the driving wavelength and harmonics. It also contains parameters to perform ADK ionization rate calculations.
-<<<<<<< HEAD
 
 `ADK.py` contains two version of an ADK ionization rate calculation. It can provide the ionizationrate at a given intensity or integrated rate over a pulse.
 
