@@ -139,11 +139,8 @@ class atom:
         '''
         Decay rate, see Allison et al. PRL (2011)
         '''
-<<<<<<< HEAD:src/atom.py
         kp = {'Xe': .08, 'Kr': .2 , 'Ar': .3 , 'Ne': .4 , 'He': .5 }
-=======
         kp = {'Xe': .1, 'Kr': .2 , 'Ar': .3 , 'Ne': .4 , 'He': .5 }
->>>>>>> origin/master:src/atom.py
         return kp[self.Atom]
 
 
